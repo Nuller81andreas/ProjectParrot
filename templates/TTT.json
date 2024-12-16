@@ -1,0 +1,1199 @@
+{
+  "name": "TTT",
+  "channels": [
+    {
+      "name": "DELETE THIS",
+      "type": 4,
+      "position": 0,
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "Made by @Visuaal",
+      "type": 2,
+      "position": 0,
+      "parent": "DELETE THIS",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "Twitter: @Visuaaal",
+      "type": 2,
+      "position": 1,
+      "parent": "DELETE THIS",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "Read #information topic",
+      "type": 2,
+      "position": 2,
+      "parent": "DELETE THIS",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "Visit marvo.gg",
+      "type": 2,
+      "position": 3,
+      "parent": "DELETE THIS",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "💳 | ==== Important ==== | 💳",
+      "type": 4,
+      "position": 1,
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📑・information",
+      "type": 0,
+      "position": 0,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔔・announcements",
+      "type": 0,
+      "position": 1,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📜・changelog",
+      "type": 0,
+      "position": 2,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📡・bot-status",
+      "type": 0,
+      "position": 3,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔗・github-feeds",
+      "type": 0,
+      "position": 4,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "👋・joins-leaves",
+      "type": 0,
+      "position": 5,
+      "parent": "💳 | ==== Important ==== | 💳",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "AddReactions",
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🎯 | ====== Main ====== | 🎯",
+      "type": 4,
+      "position": 2,
+      "permissions": []
+    },
+    {
+      "name": "💬・general",
+      "type": 0,
+      "position": 0,
+      "parent": "🎯 | ====== Main ====== | 🎯",
+      "permissions": []
+    },
+    {
+      "name": "🎫・support",
+      "type": 0,
+      "position": 1,
+      "parent": "🎯 | ====== Main ====== | 🎯",
+      "permissions": []
+    },
+    {
+      "name": "📚・suggestions",
+      "type": 0,
+      "position": 2,
+      "parent": "🎯 | ====== Main ====== | 🎯",
+      "permissions": []
+    },
+    {
+      "name": "📁・bug-reports",
+      "type": 0,
+      "position": 3,
+      "parent": "🎯 | ====== Main ====== | 🎯",
+      "permissions": []
+    },
+    {
+      "name": "🤖・commands",
+      "type": 0,
+      "position": 4,
+      "parent": "🎯 | ====== Main ====== | 🎯",
+      "permissions": []
+    },
+    {
+      "name": "🔊 | ====== Voice ====== | 🔊",
+      "type": 4,
+      "position": 3,
+      "permissions": []
+    },
+    {
+      "name": "🔊・General",
+      "type": 2,
+      "position": 0,
+      "parent": "🔊 | ====== Voice ====== | 🔊",
+      "permissions": []
+    },
+    {
+      "name": "🎵・Music",
+      "type": 2,
+      "position": 1,
+      "parent": "🔊 | ====== Voice ====== | 🔊",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "Speak"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔐・Private",
+      "type": 2,
+      "position": 2,
+      "parent": "🔊 | ====== Voice ====== | 🔊",
+      "permissions": []
+    },
+    {
+      "name": "💤・AFK",
+      "type": 2,
+      "position": 3,
+      "parent": "🔊 | ====== Voice ====== | 🔊",
+      "permissions": []
+    },
+    {
+      "name": "🎯 | ====== Staff ====== | 🎯",
+      "type": 4,
+      "position": 4,
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "📪・staff-news",
+      "type": 0,
+      "position": 0,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🎓・staff-chat",
+      "type": 0,
+      "position": 1,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🔐・staff-commands",
+      "type": 0,
+      "position": 2,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "📧・community-news",
+      "type": 0,
+      "position": 3,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📥・discord-updates",
+      "type": 0,
+      "position": 4,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "📛・moderation-logs",
+      "type": 0,
+      "position": 5,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "🔎・utility-logs",
+      "type": 0,
+      "position": 6,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": [
+            "SendMessages"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "👥・invites",
+      "type": 0,
+      "position": 7,
+      "parent": "🎯 | ====== Staff ====== | 🎯",
+      "permissions": [
+        {
+          "id": "1315387937516421149",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270293",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        },
+        {
+          "id": "1315387937529270292",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "🔧 | ==== Bot Logs ==== | 🔧",
+      "type": 4,
+      "position": 5,
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "📥・guild-join",
+      "type": 0,
+      "position": 0,
+      "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "📤・guild-leave",
+      "type": 0,
+      "position": 1,
+      "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    },
+    {
+      "name": "📛・bot-errors",
+      "type": 0,
+      "position": 2,
+      "parent": "🔧 | ==== Bot Logs ==== | 🔧",
+      "permissions": [
+        {
+          "id": "1315387937516421140",
+          "type": 0,
+          "allow": [],
+          "deny": [
+            "ViewChannel",
+            "Connect"
+          ]
+        },
+        {
+          "id": "1315387937529270294",
+          "type": 0,
+          "allow": [
+            "ViewChannel",
+            "Connect"
+          ],
+          "deny": []
+        }
+      ]
+    }
+  ],
+  "roles": [
+    {
+      "name": "@everyone",
+      "color": 0,
+      "hoist": false,
+      "position": 0,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak",
+        "CreatePublicThreads",
+        "CreatePrivateThreads",
+        "UseExternalStickers",
+        "SendMessagesInThreads",
+        "UseEmbeddedActivities",
+        "UseSoundboard",
+        "CreateGuildExpressions",
+        "CreateEvents",
+        "UseExternalSounds",
+        "SendVoiceMessages",
+        "SendPolls",
+        "UseExternalApps"
+      ]
+    },
+    {
+      "name": "━━━━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 2,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Bots",
+      "color": 16770790,
+      "hoist": true,
+      "position": 3,
+      "permissions": [
+        "CreateInstantInvite",
+        "Administrator",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Members",
+      "color": 1752220,
+      "hoist": true,
+      "position": 4,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Voter",
+      "color": 6405375,
+      "hoist": true,
+      "position": 5,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "━━━━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 6,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Partners",
+      "color": 10181046,
+      "hoist": true,
+      "position": 7,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Patreons",
+      "color": 15277667,
+      "hoist": true,
+      "position": 8,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "━━━━━━━━",
+      "color": 0,
+      "hoist": false,
+      "position": 9,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Support",
+      "color": 15844367,
+      "hoist": true,
+      "position": 10,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Moderators",
+      "color": 14676313,
+      "hoist": true,
+      "position": 11,
+      "permissions": [
+        "CreateInstantInvite",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Administrators",
+      "color": 3066993,
+      "hoist": true,
+      "position": 12,
+      "permissions": [
+        "CreateInstantInvite",
+        "Administrator",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    },
+    {
+      "name": "Developers",
+      "color": 3447003,
+      "hoist": true,
+      "position": 13,
+      "permissions": [
+        "CreateInstantInvite",
+        "Administrator",
+        "AddReactions",
+        "Stream",
+        "ViewChannel",
+        "SendMessages",
+        "EmbedLinks",
+        "AttachFiles",
+        "ReadMessageHistory",
+        "UseExternalEmojis",
+        "Connect",
+        "Speak",
+        "UseVAD",
+        "ChangeNickname",
+        "UseApplicationCommands",
+        "RequestToSpeak"
+      ]
+    }
+  ],
+  "settings": {
+    "name": "TTT",
+    "verificationLevel": 2,
+    "explicitContentFilter": 2,
+    "defaultMessageNotifications": 1
+  }
+}
